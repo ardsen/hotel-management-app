@@ -6,7 +6,7 @@ It is a modern web application built using React and various powerful libraries 
 
 Log in with the default test account to check all the features.
 
-<a href = "https://hotel-management-app-ardsens-projects.vercel.app/">LIVE</a>
+<a href = "https://hotel-management-app-ardsens-projects.vercel.app/" target="_blank">LIVE</a>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;">
   <img src="./photo1.png" alt="Photo 1" width="48%" style="border-radius: 8px;">
